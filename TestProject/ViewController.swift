@@ -12,6 +12,9 @@ class ViewController: UIViewController {
     
     var ijkeiscool = false
     let nicolaCentonzeIsCool = true  // LET BECAUSE YOU CAN'T CHANGE IT
+    
+    //Francesco costant
+    let fuckYouAll = "I'm the only cool person here... and the youngest."
 
     override func viewDidLoad() {
         super.viewDidLoad()
