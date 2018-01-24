@@ -30,7 +30,7 @@ class ViewController: UIViewController {
     //    Gennaro Amura 24/01 15:10
     private func coolest() {
         print("Gennaro Amura")
-        print("😎")
+        print("sfaccim")
     }
 
     // Jim
