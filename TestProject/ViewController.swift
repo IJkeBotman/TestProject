@@ -11,6 +11,7 @@ import UIKit
 class ViewController: UIViewController {
     
     var ijkeiscool = false
+    let nicolaCentonzeIsCool = true  // LET BECAUSE YOU CAN'T CHANGE IT
 
     override func viewDidLoad() {
         super.viewDidLoad()
