@@ -12,7 +12,7 @@ class ViewController: UIViewController {
     
     var ijkeiscool = false
     let nicolaCentonzeIsCool = true  // LET BECAUSE YOU CAN'T CHANGE IT
-    
+    let davideIsNapolitan = false
     //Francesco costant
     let fuckYouAll = "I'm the only cool person here... and the youngest."
 
@@ -29,7 +29,7 @@ class ViewController: UIViewController {
     //    Gennaro Amura 24/01 15:10
     private func coolest() {
         print("Gennaro Amura")
-        print("😎")
+        print("sfaccim")
     }
 
 
