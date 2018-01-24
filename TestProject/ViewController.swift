@@ -12,6 +12,7 @@ class ViewController: UIViewController {
     
     var ijkeiscool = false
     let nicolaCentonzeIsCool = true  // LET BECAUSE YOU CAN'T CHANGE IT
+    var jim: String = ""
     
     //Francesco costant
     let fuckYouAll = "I'm the only cool person here... and the youngest."
