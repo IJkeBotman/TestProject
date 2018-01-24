@@ -11,6 +11,7 @@ import UIKit
 class ViewController: UIViewController {
     
     var ijkeiscool = false
+    var iamcooler = true
 
     override func viewDidLoad() {
         super.viewDidLoad()
