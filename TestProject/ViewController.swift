@@ -32,6 +32,10 @@ class ViewController: UIViewController {
         print("😎")
     }
 
-
+    // Jim
+    class Hello {
+        var me = true
+        var you = false
+    }
 }
 
