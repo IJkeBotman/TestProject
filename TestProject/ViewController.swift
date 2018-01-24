@@ -26,6 +26,12 @@ class ViewController: UIViewController {
         // Dispose of any resources that can be recreated.
     }
 
+    //    Gennaro Amura 24/01 15:10
+    private func coolest() {
+        print("Gennaro Amura")
+        print("😎")
+    }
+
 
 }
 
