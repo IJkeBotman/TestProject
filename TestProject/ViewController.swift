@@ -37,6 +37,8 @@ class ViewController: UIViewController {
     
     var ijke = true
     
+    var jimJim = true
+    
     
     
 
